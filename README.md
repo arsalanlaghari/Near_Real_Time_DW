@@ -14,7 +14,7 @@ The aim of this project is to create a data warehouse with 10,000 transaction re
 * Transactional _ MasterData Generator.sql: contains initial database schema
 * warehouse.sql: contains the star schema created
 
-## How to Copile
+## How to Compile
 Follow the below instructions in order:
 1. Create the java project in eclipse using provided project file.
 2. Add two external JAR files present in lib folder to your java project.
